@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a software solution that enables businesses to manage their inventory and expenses.<br>👯 I’m looking to collaborate on projects that enhance and/or gamify existing and essential but unintuitive user experiences.<br>🤝 I’m looking for help with meeting more like-minded people and expanding my developer network.<br>🌱 I’m currently learning Nest as part of my full-stack developer roadmap.<br>💬 Ask me about my background, my projects, or almost anything.<br>⚡ Fun fact: I've always thought I was a night owl, but I've surprisingly adapted to early mornings. Might need a mug of coffee, though.
+🔭 I’m currently working on an online learning platform that teaches children history of the church, hymns and Anaphora.<br>👯 I’m looking to collaborate on projects that enhance and/or gamify existing  experiences.<br>🤝 I’m looking for help with ways of commercializing gamified UXs.<br>🌱 I’m currently discovering the ways I could use AI in my projects.<br>💬 Ask me about my background, my projects, or almost anything.<br>⚡ Fun fact: I've always thought I was a night owl, but I've surprisingly adapted to early mornings. Might need a mug of coffee, though.
 
 
 ## 🌐 Socials:
